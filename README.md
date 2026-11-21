@@ -57,84 +57,84 @@ The global architectural design and interior floor plan software sector represen
 
 ## 💻 Open-Source Architectural Projects
 
-*Open-source 2D/3D CAD systems, Building Information Modeling (BIM) engines, parametric space modelers, and interactive web floor planners, sorted by GitHub star count (descending).*
+*Open-source 2D/3D CAD systems, Building Information Modeling (BIM) engines, parametric space modelers, and interactive web floor planners, sorted by GitHub Stars_Count (descending).*
 
-### 1. 🏗️ [FreeCAD](https://github.com/FreeCAD/FreeCAD) [![GitHub stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)
+### 1. 🏗️ [FreeCAD](https://github.com/FreeCAD/FreeCAD) [![GitHub_Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)
 * **Description:** Flagship open-source parametric 3D CAD modeler featuring dedicated BIM and Arch workbenches. Generates production-ready architectural floor plans, elevations, section views, IFC data structures, and parametric building elements like walls, roofs, windows, and structural trusses.
 * **Technology:** C++, Python, Qt, OpenCASCADE.
 * **License:** LGPL-2.0.
 
-### 2. 🏛️ [Pascal Editor](https://github.com/pascalorg/editor) [![GitHub stars](https://img.shields.io/github/stars/pascalorg/editor?style=social&color=white)](https://github.com/pascalorg/editor/stargazers)
+### 2. 🏛️ [Pascal Editor](https://github.com/pascalorg/editor) [![GitHub_Stars](https://img.shields.io/github/stars/pascalorg/editor?style=social&color=white)](https://github.com/pascalorg/editor/stargazers)
 * **Description:** Modern open-source browser-first 3D architecture and spatial software designed for AECO and Scan-to-BIM pipelines. Features agent-friendly automation, interactive floor plan extrusion, point-cloud integration, and AI-driven layout tools via CLI and MCP protocols.
 * **Technology:** TypeScript, WebGL, WebAssembly.
 * **License:** Open Source.
 
-### 3. ⚙️ [SolidCraft](https://github.com/tangency-labs/solidcraft) [![GitHub stars](https://img.shields.io/github/stars/tangency-labs/solidcraft?style=social&color=white)](https://github.com/tangency-labs/solidcraft/stargazers)
+### 3. ⚙️ [SolidCraft](https://github.com/tangency-labs/solidcraft) [![GitHub_Stars](https://img.shields.io/github/stars/tangency-labs/solidcraft?style=social&color=white)](https://github.com/tangency-labs/solidcraft/stargazers)
 * **Description:** Fast, modern open-source parametric 3D CAD application built entirely in pure Rust. Runs natively on desktop and web browsers, offering high-performance constraint modeling for architectural components, structural framing, and automated geometry generation via MCP servers.
 * **Technology:** Rust, WebGPU, Wasm.
 * **License:** Apache-2.0 / MIT.
 
-### 4. 🔲 [OpenSCAD](https://github.com/openscad/openscad) [![GitHub stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers)
+### 4. 🔲 [OpenSCAD](https://github.com/openscad/openscad) [![GitHub_Stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers)
 * **Description:** Script-based programmatic 3D CAD modeler. Developers and architects write declarative code to generate reproducible parametric building assemblies, modular floor plan layouts, generative structural elements, and CSG solids.
 * **Technology:** C++, OpenCSG, CGAL.
 * **License:** GPL-2.0.
 
-### 5. 📏 [LibreCAD](https://github.com/LibreCAD/LibreCAD) [![GitHub stars](https://img.shields.io/github/stars/LibreCAD/LibreCAD?style=social&color=white)](https://github.com/LibreCAD/LibreCAD/stargazers)
+### 5. 📏 [LibreCAD](https://github.com/LibreCAD/LibreCAD) [![GitHub_Stars](https://img.shields.io/github/stars/LibreCAD/LibreCAD?style=social&color=white)](https://github.com/LibreCAD/LibreCAD/stargazers)
 * **Description:** Mature open-source 2D computer-aided drafting (CAD) platform. Excellent for drafting detailed 2D architectural blueprints, floor plans, electrical symbols, room layouts, and dimensioned construction sheets using native DXF formatting.
 * **Technology:** C++, Qt.
 * **License:** GPL-2.0.
 
-### 6. 📐 [SolveSpace](https://github.com/solvespace/solvespace) [![GitHub stars](https://img.shields.io/github/stars/solvespace/solvespace?style=social&color=white)](https://github.com/solvespace/solvespace/stargazers)
+### 6. 📐 [SolveSpace](https://github.com/solvespace/solvespace) [![GitHub_Stars](https://img.shields.io/github/stars/solvespace/solvespace?style=social&color=white)](https://github.com/solvespace/solvespace/stargazers)
 * **Description:** Ultra-fast, lightweight parametric 2D and 3D CAD software with constraint-solving engines. Ideal for dimensioned floor plan sketching, mechanical building systems, spatial constraint analysis, and clean DXF/SVG vector export.
 * **Technology:** C++, OpenGL.
 * **License:** GPL-3.0.
 
-### 7. 🏢 [IfcOpenShell (Bonsai / BlenderBIM)](https://github.com/IfcOpenShell/IfcOpenShell) [![GitHub stars](https://img.shields.io/github/stars/IfcOpenShell/IfcOpenShell?style=social&color=white)](https://github.com/IfcOpenShell/IfcOpenShell/stargazers)
+### 7. 🏢 [IfcOpenShell (Bonsai / BlenderBIM)](https://github.com/IfcOpenShell/IfcOpenShell) [![GitHub_Stars](https://img.shields.io/github/stars/IfcOpenShell/IfcOpenShell?style=social&color=white)](https://github.com/IfcOpenShell/IfcOpenShell/stargazers)
 * **Description:** Open-source software library and suite for Industry Foundation Classes (IFC). Powers the Bonsai BIM authoring ecosystem for Blender, turning Blender into a native open-standard architectural CAD/BIM modeler with full 2D floor plan drawing generation and structural documentation.
 * **Technology:** C++, Python, Blender API.
 * **License:** LGPL-3.0.
 
-### 8. 🛋️ [Blueprint3D](https://github.com/furnishup/blueprint3d) [![GitHub stars](https://img.shields.io/github/stars/furnishup/blueprint3d?style=social&color=white)](https://github.com/furnishup/blueprint3d/stargazers)
+### 8. 🛋️ [Blueprint3D](https://github.com/furnishup/blueprint3d) [![GitHub_Stars](https://img.shields.io/github/stars/furnishup/blueprint3d?style=social&color=white)](https://github.com/furnishup/blueprint3d/stargazers)
 * **Description:** Web-based HTML5/JavaScript spatial interior design application framework powered by Three.js. Provides interactive 2D floor plan drawing with simultaneous real-time 3D walkthroughs, drag-and-drop wall creation, and furniture arrangement in the browser.
 * **Technology:** JavaScript, HTML5 Canvas, Three.js.
 * **License:** MIT.
 
-### 9. 📐 [QCAD](https://github.com/qcad/qcad) [![GitHub stars](https://img.shields.io/github/stars/qcad/qcad?style=social&color=white)](https://github.com/qcad/qcad/stargazers)
+### 9. 📐 [QCAD](https://github.com/qcad/qcad) [![GitHub_Stars](https://img.shields.io/github/stars/qcad/qcad?style=social&color=white)](https://github.com/qcad/qcad/stargazers)
 * **Description:** Cross-platform 2D CAD application optimized for technical drafting, architectural floor plans, interior layouts, schematics, and precision dimensioning. Supports complete DWG and DXF file reading and writing.
 * **Technology:** C++, Qt, ECMAScript scripting.
 * **License:** GPL-3.0 (Community Edition).
 
-### 10. 🎨 [React-Planner](https://github.com/cvdlab/react-planner) [![GitHub stars](https://img.shields.io/github/stars/cvdlab/react-planner?style=social&color=white)](https://github.com/cvdlab/react-planner/stargazers)
+### 10. 🎨 [React-Planner](https://github.com/cvdlab/react-planner) [![GitHub_Stars](https://img.shields.io/github/stars/cvdlab/react-planner?style=social&color=white)](https://github.com/cvdlab/react-planner/stargazers)
 * **Description:** Modular React.js component library designed to embed 2D floor plan drafting and 3D architectural room visualization directly into modern web applications. Supports catalog items, custom textures, wall snapping, and dimension overlays.
 * **Technology:** React, Redux, Three.js, ES6.
 * **License:** MIT.
 
-### 11. 💡 [NeonPlan3D](https://github.com/Mastershort/neonplan3d) [![GitHub stars](https://img.shields.io/github/stars/Mastershort/neonplan3d?style=social&color=white)](https://github.com/Mastershort/neonplan3d/stargazers)
+### 11. 💡 [NeonPlan3D](https://github.com/Mastershort/neonplan3d) [![GitHub_Stars](https://img.shields.io/github/stars/Mastershort/neonplan3d?style=social&color=white)](https://github.com/Mastershort/neonplan3d/stargazers)
 * **Description:** Interactive 3D home floor plan modeler and visualization dashboard with real-time IoT entity integration. Draw your house layout directly in the built-in editor and monitor lights, climate, sensors, and cameras in 3D.
 * **Technology:** JavaScript, WebGL, Home Assistant UI.
 * **License:** Apache-2.0.
 
-### 12. 🏠 [Sweet Home 3D Floor Plan Generator](https://github.com/shmuelzon/home-assistant-floor-plan) [![GitHub stars](https://img.shields.io/github/stars/shmuelzon/home-assistant-floor-plan?style=social&color=white)](https://github.com/shmuelzon/home-assistant-floor-plan/stargazers)
+### 12. 🏠 [Sweet Home 3D Floor Plan Generator](https://github.com/shmuelzon/home-assistant-floor-plan) [![GitHub_Stars](https://img.shields.io/github/stars/shmuelzon/home-assistant-floor-plan?style=social&color=white)](https://github.com/shmuelzon/home-assistant-floor-plan/stargazers)
 * **Description:** Floor plan automation plugin and exporter for Sweet Home 3D designs, generating interactive 2D/3D floor plan graphics, room coordinates, and sensor mapping configurations directly from architectural layouts.
 * **Technology:** Java, Python.
 * **License:** MIT.
 
-### 13. 🛡️ [BRL-CAD](https://github.com/BRL-CAD/brlcad) [![GitHub stars](https://img.shields.io/github/stars/BRL-CAD/brlcad?style=social&color=white)](https://github.com/BRL-CAD/brlcad/stargazers)
+### 13. 🛡️ [BRL-CAD](https://github.com/BRL-CAD/brlcad) [![GitHub_Stars](https://img.shields.io/github/stars/BRL-CAD/brlcad?style=social&color=white)](https://github.com/BRL-CAD/brlcad/stargazers)
 * **Description:** Veteran constructive solid geometry (CSG) modeling system with over 40 years of active development. Features ray-tracing rendering, high-precision geometric analysis, architectural solid modeling, and structural benchmarking tools.
 * **Technology:** C, C++, Tcl/Tk.
 * **License:** LGPL-2.1 / BSD.
 
-### 14. 🖌️ [Arcada](https://github.com/mehanix/arcada) [![GitHub stars](https://img.shields.io/github/stars/mehanix/arcada?style=social&color=white)](https://github.com/mehanix/arcada/stargazers)
+### 14. 🖌️ [Arcada](https://github.com/mehanix/arcada) [![GitHub_Stars](https://img.shields.io/github/stars/mehanix/arcada?style=social&color=white)](https://github.com/mehanix/arcada/stargazers)
 * **Description:** Fast 2D browser-based interior design software and interactive floor plan creator built on React and PixiJS. Supports rapid room wall construction, door/window placement, and spatial layout staging.
 * **Technology:** TypeScript, React, Pixi.js.
 * **License:** MIT.
 
-### 15. 🏡 [House-Planner](https://github.com/egmalt/house-planner) [![GitHub stars](https://img.shields.io/github/stars/egmalt/house-planner?style=social&color=white)](https://github.com/egmalt/house-planner/stargazers)
+### 15. 🏡 [House-Planner](https://github.com/egmalt/house-planner) [![GitHub_Stars](https://img.shields.io/github/stars/egmalt/house-planner?style=social&color=white)](https://github.com/egmalt/house-planner/stargazers)
 * **Description:** Lightweight self-hosted house planner for true-scale 2D floor plans, 3D views, satellite map overlays, plumbing, electrical, and underfloor heating layouts with automatic bill-of-materials (BOM) cost calculations.
 * **Technology:** React, PHP, Three.js (no database required).
 * **License:** MIT.
 
-### 16. 🔍 [AFPlan (Architectural Floor Plan Analyzer)](https://github.com/cansik/architectural-floor-plan) [![GitHub stars](https://img.shields.io/github/stars/cansik/architectural-floor-plan?style=social&color=white)](https://github.com/cansik/architectural-floor-plan/stargazers)
+### 16. 🔍 [AFPlan (Architectural Floor Plan Analyzer)](https://github.com/cansik/architectural-floor-plan) [![GitHub_Stars](https://img.shields.io/github/stars/cansik/architectural-floor-plan?style=social&color=white)](https://github.com/cansik/architectural-floor-plan/stargazers)
 * **Description:** Computer vision and architectural floor plan analysis system that recognizes walls, doorways, rooms, and structural partitions from blueprint images to generate extended vector models for building services.
 * **Technology:** Kotlin, OpenCV, JavaFX.
 * **License:** MIT.
@@ -156,7 +156,7 @@ Contributions are welcome and appreciated! Help keep this directory accurate, up
 3. 📝 **Add/edit entries** in `README.md` keeping alphabetical order in SaaS and star-sorted order in open-source. Include:
    - Tool name & official link
    - 1–2 sentence factual summary of CAD/floor planning features
-   - Proper GitHub star badge and repository link for open-source tools
+   - Proper GitHub Stars_Badge and repository link for open-source tools
    - Transparent pricing and free-tier limits for SaaS products
 4. 🚀 **Commit your changes** (`git commit -m "Add [Software Name] to directory"`).
 5. 📬 **Submit a Pull Request** with a brief summary of why the software should be included.
