@@ -201,7 +201,7 @@
 
     <!-- Metrics/Footer Tagline -->
     <text x="0" y="365" fill="#64748b" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="500">
-      Curated with open-source repositories &bull; Verified pricing models &bull; Free tier benchmarks
+      Curated with open-source repositories &#8226; Verified pricing models &#8226; Free tier benchmarks
     </text>
   </g>
 </svg>
