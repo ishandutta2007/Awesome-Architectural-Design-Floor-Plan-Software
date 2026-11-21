@@ -57,7 +57,7 @@ The global architectural design and interior floor plan software sector represen
 
 ## 💻 Open-Source Architectural Projects
 
-*Open-source 2D/3D CAD systems, Building Information Modeling (BIM) engines, parametric space modelers, and interactive web floor planners, sorted by GitHub Stars_Count (descending).*
+*Open-source 2D/3D CAD systems, Building Information Modeling (BIM) engines, parametric space modelers, and interactive web floor planners, sorted by GitHub_Stars_Count (descending).*
 
 ### 1. 🏗️ [FreeCAD](https://github.com/FreeCAD/FreeCAD) [![GitHub_Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)
 * **Description:** Flagship open-source parametric 3D CAD modeler featuring dedicated BIM and Arch workbenches. Generates production-ready architectural floor plans, elevations, section views, IFC data structures, and parametric building elements like walls, roofs, windows, and structural trusses.
@@ -156,7 +156,7 @@ Contributions are welcome and appreciated! Help keep this directory accurate, up
 3. 📝 **Add/edit entries** in `README.md` keeping alphabetical order in SaaS and star-sorted order in open-source. Include:
    - Tool name & official link
    - 1–2 sentence factual summary of CAD/floor planning features
-   - Proper GitHub Stars_Badge and repository link for open-source tools
+   - Proper GitHub_Stars_Badge and repository link for open-source tools
    - Transparent pricing and free-tier limits for SaaS products
 4. 🚀 **Commit your changes** (`git commit -m "Add [Software Name] to directory"`).
 5. 📬 **Submit a Pull Request** with a brief summary of why the software should be included.
